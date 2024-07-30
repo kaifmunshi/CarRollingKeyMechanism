@@ -1,5 +1,5 @@
 # RollingKeyAuthentication
-In this project, I have Implemented a Rolling Key Mechanism in Java (Using Socket Programming) for Client Auth in Server-Client model
+In this project, I have Implemented a Rolling Key Mechanism in Java (Using Socket Programming) for Client Authentication in Server-Client model
 
 
 ## How Algorithm Works: 
